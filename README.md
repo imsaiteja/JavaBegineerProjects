@@ -1,4 +1,3 @@
-# JavaCalculator
 # Java Calculator App
 
 A simple command-line calculator application built using *Java. This project performs basic arithmetic operations like **addition, subtraction, multiplication,* and *division*.
